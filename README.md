@@ -18,3 +18,9 @@ The sensors connect to a microcontroller, which reads the sensor data and can us
 ## Project Status
 
 This project is currently being developed.
+
+# Starbie
+
+Starbie is a small environmental sensor project using an MPU6050 and DHT11.
+
+![Starbie](components_dipremove.jpg)
