@@ -23,4 +23,5 @@ This project is currently being developed.
 
 Starbie is a small environmental sensor project using an MPU6050 and DHT11.
 
-![Starbie](components_dipremove.jpg)
+![Starbie](<img src="blob:chrome-untrusted://media-app/ec3ed630-fa7f-46f4-b555-5d0971a77326" alt="components_dipremove.jpg"/><img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/b76d249a-2c81-40db-8aa6-8d8c2d70b683" />
+)
